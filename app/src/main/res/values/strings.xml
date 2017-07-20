@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EnhancedToDoList</string>
+    <string-array name="priority_array">
+        <item>Critical</item>
+        <item>Important</item>
+        <item>Normal</item>
+        <item>Fun</item>
+
+
+    </string-array>
+
+    <string-array name="category_array">
+        <item>All</item>>
+        <item>Critical</item>
+        <item>Important</item>
+        <item>Normal</item>
+        <item>Fun</item>
+
+
+    </string-array>
+</resources>
